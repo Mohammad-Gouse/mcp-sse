@@ -15,3 +15,11 @@ dependencies:
   - pip:
       - mcp
       - mcp[cli]
+      - pandas
+      - openpyxl
+      - langchain
+      - langchain_aws
+      - botocore
+      - langchain-community
+      - sentence-transformers
+      - langchain-huggingface
